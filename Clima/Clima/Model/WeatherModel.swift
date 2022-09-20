@@ -11,11 +11,12 @@ import Foundation
 
 struct WeatherModel {
     
+    //Properties stored
     let conditionId: Int
     let cityName: String
     let temperature: Double
     
-    
+    //Computed Property
     var temperatureString: String {
        return String(format: "%.1f", temperature)
     }
