@@ -54,7 +54,8 @@ class WeatherViewController: UIViewController, UITextFieldDelegate, WeatherManag
         searchTextField.text = ""
     }
     
-    func didUpdateWeather(weather: WeatherModel) {
+    //Delegate method
+    func didUpdateWeather(_ weatherManager: WeatherManager,  weather: WeatherModel) {
         print(weather.temperature)
     }
     
