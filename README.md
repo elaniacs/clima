@@ -1,5 +1,3 @@
-# clima
-
 ## Objective
 
 To use an API to get live data from the Internet. 
