@@ -20,3 +20,6 @@ A weather application, enabled for dark mode, being able to check the weather fo
 * Parse JSON with native Encodable and Decodable protocols 
 * Use Grand Central Dispatch to fetch the thread
 * Use Core Location to get the current GPS location of the phone 
+
+![image](https://user-images.githubusercontent.com/84935536/209581661-ad5b0afe-89c3-4949-a026-93d3dc44f1fc.png)
+
